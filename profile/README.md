@@ -4,7 +4,7 @@
 
 Every source returns the same JSON shape with its source URL, license and attribution, so you can cite what you show and combine sources without writing a new integration for each.
 
-[Website](https://dataville.com) · [Docs](https://docs.dataville.com) · [Get a free API key](https://app.dataville.com/api-keys) · [MCP server](https://github.com/datavilleorg/dataville-mcp)
+[Website](https://dataville.com) · [Docs](https://docs.dataville.com) · [Get a free API key](https://app.dataville.com/api-keys) · [Live demos](https://app.dataville.com/demos) · [MCP server](https://github.com/datavilleorg/dataville-mcp)
 
 ### Try it in 30 seconds
 
