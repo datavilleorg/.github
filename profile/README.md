@@ -10,6 +10,9 @@ Every source returns the same JSON shape with its source URL, license and attrib
 
 ```bash
 curl "https://api.dataville.com/edgar/AAPL"      # Apple's latest SEC filing and financials
+```
+
+```bash
 curl "https://api.dataville.com/wiki/Nvidia"     # Wikipedia article, with source and license
 ```
 
