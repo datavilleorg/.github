@@ -7,13 +7,13 @@ Every source returns the same JSON shape with its source URL, license and attrib
 [Website](https://dataville.com) · [Docs](https://docs.dataville.com) · [Get a free API key](https://app.dataville.com/api-keys) · [Live demos](https://app.dataville.com/demos) · [MCP server](https://github.com/datavilleorg/dataville-mcp)
 
 ### Try it in 30 seconds
-
+Latest SEC filing and financials for Apple
 ```bash
-curl "https://api.dataville.com/edgar/AAPL"      # Latest SEC filing and financials for Apple
+curl "https://api.dataville.com/edgar/AAPL"
 ```
-
+Wikipedia article, with source and license
 ```bash
-curl "https://api.dataville.com/wiki/Nvidia"     # Wikipedia article, with source and license
+curl "https://api.dataville.com/wiki/Nvidia"
 ```
 
 Or give your agent the whole catalog. Dataville is in the [Official MCP Registry](https://registry.modelcontextprotocol.io/) as `com.dataville/dataville-mcp`:
